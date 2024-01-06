@@ -94,7 +94,7 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 ## Contact
 
 - **DappHack** : [Pushpendra](), [Shashank]()
-- **Cross-chain Bridge** : [Samemdra]()
+- **Cross-chain Bridge** : [Samarendra]()
 - **Undercollaterized lending and borrowing platform** : [Aditya](),[Shashank]()
 - **HorseRiders** : [Prabhat]()
 - **Storylok** : [Aditya]()
