@@ -1,8 +1,6 @@
 # Blocsoc Open Projects 2024
 
-Blocsoc is conducting an event in which you can get a chance to get your hands on blockchain.
-You are expected to submit a proposal explaining your idea to solve the provided problem statements.
- We will contact the selected candidates and then they will proceed to the coding phase!!!
+The enclosed README contains a list of proposed ideas for this year's BlocSoc Open Projects. Candidates are encouraged to familiarize themselves with these topics and submit a detailed proposal based on their selected idea for evaluation. Those who are selected will have the opportunity to undertake their projects under the guidance of BlocSoc. Successful completion of these projects will result in formal verification by BlocSoc.
 
 ## Problem Statements
 
@@ -11,16 +9,28 @@ Here is a list of our 2024 problem statements:
 ### **DappHack**
 
 - Solve the existing beginner-friendly issues in Blocsoc's [DappHack](https://github.com/blocsoc-iitr/DappHack).
+- DappHack is an advance Web3 Hackathon portal.
+- Various issue has been raised related to frontend, backend and smart contracts development.
+- You are required to choose from the given list of issues and make a proposal on how you would be tackling it.
 
 ### **Cross-chain Bridge**
+- Candidate is expected here to make a cross-chain bridge, a cross-chain bridge is a protocol which allows user to transfer assets between various blockchains.
+- Make a proposal describing the architecture of smart contract and backend for calling these contracts.
+- The final outcome of your code should be a fully functioning Cross-Chain-Bridge with a very basic frontend.
 
 ### **Undercollaterized lending and borrowing platform**
 
-- Build a DeFi platform using solidity and the refernces to the existing lending-borrowing protcols.
+- Build a DEFI protocol which will allow users to lend and borrow assets on a blockchain.
+- The main challenge here is that, most of the existing DEFI protocols are Over-Collaterize i:e the value of collateral deposited is much more than the assets provided. Hence you need to think of a proper solution on your own on how you would keep your protocol undercollaterized, without compromising security and financial risks.
+- You are expected to submit a proposal describing your Smart Contract architecture.
+- The final outcome of your code should be a fully functioning Undercollaterized DEFI protocol with a very basic frontend, we are mostly intrested in your solution logic and code for that.
 
 ### **HorseRiders**
 
 - Come up with an idea for a non-existent library in **huff** to build and merge in Blocsoc's [HorseRiders](https://github.com/blocsoc-iitr/HorseRiders).
+- Huff is a low-level assembly language for EVM.
+- You are required to develop unique Mathematical or Cryptography libraries in Huff with efficient and highly gas-optimized code.
+- For your reference we have already implemented Fast Fourier Transform(FFT) algoritmin in Huff.
 
 ### **Storylok**
 
@@ -71,6 +81,15 @@ Please find detailed instructions on how to contribute to existing projects and 
 
 - [https://github.com/BlocSoc-iitr/DappHack](https://github.com/BlocSoc-iitr/DappHack)
 
+### Cross-Chain Bridge
+
+- [What are Cross-Chain bridges and the underlying architecture.](https://medium.com/coinmonks/understanding-cross-chain-bridges-the-key-to-interoperability-de5d391bc4ff)
+
+### Undercollateralized lending and borrowing protocol.
+
+- [DEFI lending protocol general overview](https://medium.com/blockchain-stories/defi-lending-and-borrowing-272d1f2b87de)
+- [Compound Finance App](https://app.compound.finance/?market=weth-mainnet)
+
 ### HorseRiders
 
 - [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders)
@@ -81,11 +100,7 @@ Please find detailed instructions on how to contribute to existing projects and 
 
 ## Template
 
-- add editable template link
-
-## Sample proposal
-
-- add proposal with the link
+- [Example Template](https://docs.google.com/document/d/1sd7jp_nPikJc307gSyBivj0Gt2odBDUnCf7CgV9jaPs/edit?usp=sharing)
 
 ## A word on ChatGPT
 
@@ -93,10 +108,10 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 
 ## Contact
 
-- **DappHack** : [Pushpendra](), [Shashank]()
-- **Cross-chain Bridge** : [Samarendra]()
-- **Undercollaterized lending and borrowing platform** : [Aditya](),[Shashank]()
-- **HorseRiders** : [Prabhat]()
-- **Storylok** : [Aditya]()
+- **DappHack** : Pushpendra, Shashank
+- **Cross-chain Bridge** : Samarendra
+- **Undercollaterized lending and borrowing platform** : Aditya, Shashank
+- **HorseRiders** : Prabhat
+- **Storylok** : Aditya
 
-  If you have any questions or queries, you can always ask on our [discord]().
+  If you have any questions or queries, you can always ask on our [discord](https://discord.gg/hkmMAdrE).
