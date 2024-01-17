@@ -97,7 +97,7 @@ Please find detailed instructions on how to contribute to existing projects and 
 ## Submissions:
 
 - Proposal Submissions: A google form will be floated which will allow you to submit your proposals, you will need to submit a Google Docs link of your proposal with view access to everyone, along with the required info in the form.
-- Code Submissions: A google form will be floated which will allow you to submit your code, you will need to submit the link of your public repo.
+- Code Submissions: A google form will be floated which will allow you to submit your code.
 
 ## A word on ChatGPT
 
