@@ -32,22 +32,18 @@ Here is a list of our 2024 problem statements:
 - You are required to develop unique Mathematical or Cryptography libraries in Huff with efficient and highly gas-optimized code.
 - For your reference we have already implemented Fast Fourier Transform(FFT) algoritmin in Huff.
 
-### **Storylok**
-
 ## Timeline
 
 | Date       | Task                                             |
 | ---------- | ------------------------------------------------ |
-| 2024-01-16 | Problem statement release                        |
-| 2024-02-01 | Application period starts                        |
-| 2024-02-15 | Discussion of statements with respective mentors |
-| 2024-03-01 | Application period ends                          |
-| 2024-03-15 | Selected proposals are announced                 |
-| 2024-04-01 | Initial meeting with mentors                     |
-| 2024-04-15 | Start to work on the problem statements          |
-| 2024-05-01 | Mid-phase evaluation                             |
-| 2024-05-15 | Final evaluation                                 |
-| 2024-06-01 | Final Result announced                           |
+| 2024-01-17 | Problem statement release                        |
+| 2024-01-18 | Discussion of statements starts                  |
+| 2024-01-27 | Proposal submission deadline                     |
+| 2024-01-29 | Accepted Proposals announced                     |
+| 2024-01-30 | Coding period starts                             |
+| 2024-02-08 | Mid-phase Evaluations                            |
+| 2024-02-14 | Final-phase Evaluations                          |
+| 2024-02-20 | Accepted projects are verified and announced     |
 
 ## Guidelines
 
@@ -94,10 +90,6 @@ Please find detailed instructions on how to contribute to existing projects and 
 
 - [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders)
 
-### Storylok
-
-- [https://devfolio.co/projects/mesh-microrollups-e7f5](https://devfolio.co/projects/mesh-microrollups-e7f5)
-
 ## Template
 
 - [Example Template](https://docs.google.com/document/d/1sd7jp_nPikJc307gSyBivj0Gt2odBDUnCf7CgV9jaPs/edit?usp=sharing)
@@ -112,6 +104,5 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 - **Cross-chain Bridge** : Samarendra
 - **Undercollaterized lending and borrowing platform** : Aditya, Shashank
 - **HorseRiders** : Prabhat
-- **Storylok** : Aditya
 
   If you have any questions or queries, you can always ask on our [discord](https://discord.gg/hkmMAdrE).
