@@ -94,6 +94,11 @@ Please find detailed instructions on how to contribute to existing projects and 
 
 - [Example Template](https://docs.google.com/document/d/1sd7jp_nPikJc307gSyBivj0Gt2odBDUnCf7CgV9jaPs/edit?usp=sharing)
 
+## Submissions:
+
+- Proposal Submissions: A google form will be floated which will allow you to submit your proposals, you will need to submit a Google Docs link of your proposal with view access to everyone, along with the required info in the form.
+- Code Submissions: A google form will be floated which will allow you to submit your code, you will need to submit the link of your public repo.
+
 ## A word on ChatGPT
 
 When writing your proposal **we encourage you to not use ChatGPT** or other AI tools. If you do so, we ask you to disclose the usage in your proposal. It doesn't automatically disqualify you, but we will take that usage into account when evaluating your application.
