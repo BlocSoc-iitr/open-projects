@@ -110,4 +110,4 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 - **Undercollaterized lending and borrowing platform** : Aditya, Shashank
 - **HorseRiders** : Prabhat
 
-  If you have any questions or queries, you can always ask on our [discord](https://discord.gg/hkmMAdrE).
+  If you have any questions or queries, you can always ask on our [discord](https://discord.gg/kkmMAUnf).
