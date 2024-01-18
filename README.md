@@ -14,15 +14,19 @@ Here is a list of our 2024 problem statements:
 
 ### **Cross-chain Bridge**
 
+-Create a cross-chain bridge using solidity and websockets to increase Interoperability by enabling token transfers, bi-directional asset transfers etc.
+
 ### **Undercollaterized lending and borrowing platform**
 
-- Build a DeFi platform using solidity and the refernces to the existing lending-borrowing protcols.
+- Use solidity to build a DeFi platform where loans can be provided without collaterization and hence create risk assessment techniques like credit scores,reputation systems etc to maintain the platform.
 
 ### **HorseRiders**
 
 - Come up with an idea for a non-existent library in **huff** to build and merge in Blocsoc's [HorseRiders](https://github.com/blocsoc-iitr/HorseRiders).
 
 ### **Storylok**
+
+- Come up with an idea that uses mesh micro-rollups concept to enhance forking and reduce computational expense for on-chain applications.
 
 ## Timeline
 
@@ -69,15 +73,29 @@ Please find detailed instructions on how to contribute to existing projects and 
 
 ### DappHack
 
-- [https://github.com/BlocSoc-iitr/DappHack](https://github.com/BlocSoc-iitr/DappHack)
+- [DappHack](https://github.com/BlocSoc-iitr/DappHack)
+
+### Cross-chain Bridge
+
+- [Solidity](https://docs.soliditylang.org/en/v0.8.23/)
+- [Cross-chain Bridges]()
+
+### Undercollaterized lending borrowing platform
+
+-[Aave]() : For understanding how does a collaterized DeFi platforms work.
+
+- example of the problem
 
 ### HorseRiders
 
 - [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders)
+- [Huff](https://docs.huff.sh/)
+- [Huff Puzzles](https://github.com/rareSkills/huff-puzzles)
+- [Awesome-Huff](https://github.com/devtooligan/awesome-huff)
 
 ### Storylok
 
-- [https://devfolio.co/projects/mesh-microrollups-e7f5](https://devfolio.co/projects/mesh-microrollups-e7f5)
+- [Mesh Micro-rollups](https://devfolio.co/projects/mesh-microrollups-e7f5)
 
 ## Template
 
@@ -94,9 +112,9 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 ## Contact
 
 - **DappHack** : [Pushpendra](), [Shashank]()
-- **Cross-chain Bridge** : [Samemdra]()
+- **Cross-chain Bridge** : [Samarendra]()
 - **Undercollaterized lending and borrowing platform** : [Aditya](),[Shashank]()
 - **HorseRiders** : [Prabhat]()
 - **Storylok** : [Aditya]()
 
-  If you have any questions or queries, you can always ask on our [discord]().
+  If you have any questions or queries, you can always ask on our [open-projects](https://discord.gg/NdYuU5SKxk) discord channel.
