@@ -14,22 +14,17 @@ Here is a list of our 2024 problem statements:
 - You are required to choose from the given list of issues and make a proposal on how you would be tackling it.
 
 ### **Cross-chain Bridge**
+
 - Candidate is expected here to make a cross-chain bridge, a cross-chain bridge is a protocol which allows user to transfer assets between various blockchains.
 - Make a proposal describing the architecture of smart contract and backend for calling these contracts.
 - The final outcome of your code should be a fully functioning Cross-Chain-Bridge with a very basic frontend.
 
--Create a cross-chain bridge using solidity and websockets to increase Interoperability by enabling token transfers, bi-directional asset transfers etc.
-
 ### **Undercollaterized lending and borrowing platform**
 
-<<<<<<< HEAD
-- Use solidity to build a DeFi platform where loans can be provided without collaterization and hence create risk assessment techniques like credit scores,reputation systems etc to maintain the platform.
-=======
 - Build a DEFI protocol which will allow users to lend and borrow assets on a blockchain.
 - The main challenge here is that, most of the existing DEFI protocols are Over-Collaterize i:e the value of collateral deposited is much more than the assets provided. Hence you need to think of a proper solution on your own on how you would keep your protocol undercollaterized, without compromising security and financial risks.
 - You are expected to submit a proposal describing your Smart Contract architecture.
 - The final outcome of your code should be a fully functioning Undercollaterized DEFI protocol with a very basic frontend, we are mostly intrested in your solution logic and code for that.
->>>>>>> 81d931e03643527e034f7bab70bac3d27bc240a1
 
 ### **HorseRiders**
 
@@ -38,20 +33,18 @@ Here is a list of our 2024 problem statements:
 - You are required to develop unique Mathematical or Cryptography libraries in Huff with efficient and highly gas-optimized code.
 - For your reference we have already implemented Fast Fourier Transform(FFT) algoritmin in Huff.
 
-- Come up with an idea that uses mesh micro-rollups concept to enhance forking and reduce computational expense for on-chain applications.
-
 ## Timeline
 
-| Date       | Task                                             |
-| ---------- | ------------------------------------------------ |
-| 2024-01-17 | Problem statement release                        |
-| 2024-01-18 | Discussion of statements starts                  |
-| 2024-01-27 | Proposal submission deadline                     |
-| 2024-01-29 | Accepted Proposals announced                     |
-| 2024-01-30 | Coding period starts                             |
-| 2024-02-08 | Mid-phase Evaluations                            |
-| 2024-02-14 | Final-phase Evaluations                          |
-| 2024-02-20 | Accepted projects are verified and announced     |
+| Date       | Task                                         |
+| ---------- | -------------------------------------------- |
+| 2024-01-17 | Problem statement release                    |
+| 2024-01-18 | Discussion of statements starts              |
+| 2024-01-27 | Proposal submission deadline                 |
+| 2024-01-29 | Accepted Proposals announced                 |
+| 2024-01-30 | Coding period starts                         |
+| 2024-02-08 | Mid-phase Evaluations                        |
+| 2024-02-14 | Final-phase Evaluations                      |
+| 2024-02-20 | Accepted projects are verified and announced |
 
 ## Guidelines
 
@@ -83,18 +76,7 @@ Please find detailed instructions on how to contribute to existing projects and 
 
 ### DappHack
 
-- [DappHack](https://github.com/BlocSoc-iitr/DappHack)
-
-### Cross-chain Bridge
-
-- [Solidity](https://docs.soliditylang.org/en/v0.8.23/)
-- [Cross-chain Bridges]()
-
-### Undercollaterized lending borrowing platform
-
--[Aave]() : For understanding how does a collaterized DeFi platforms work.
-
-- example of the problem
+- [https://github.com/BlocSoc-iitr/DappHack](https://github.com/BlocSoc-iitr/DappHack)
 
 ### Cross-Chain Bridge
 
@@ -108,17 +90,7 @@ Please find detailed instructions on how to contribute to existing projects and 
 ### HorseRiders
 
 - [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders)
-- [Huff](https://docs.huff.sh/)
-- [Huff Puzzles](https://github.com/rareSkills/huff-puzzles)
-- [Awesome-Huff](https://github.com/devtooligan/awesome-huff)
 
-<<<<<<< HEAD
-### Storylok
-
-- [Mesh Micro-rollups](https://devfolio.co/projects/mesh-microrollups-e7f5)
-
-=======
->>>>>>> 81d931e03643527e034f7bab70bac3d27bc240a1
 ## Template
 
 - [Example Template](https://docs.google.com/document/d/1sd7jp_nPikJc307gSyBivj0Gt2odBDUnCf7CgV9jaPs/edit?usp=sharing)
@@ -134,19 +106,9 @@ When writing your proposal **we encourage you to not use ChatGPT** or other AI t
 
 ## Contact
 
-<<<<<<< HEAD
-- **DappHack** : [Pushpendra](), [Shashank]()
-- **Cross-chain Bridge** : [Samarendra]()
-- **Undercollaterized lending and borrowing platform** : [Aditya](),[Shashank]()
-- **HorseRiders** : [Prabhat]()
-- **Storylok** : [Aditya]()
-
-  If you have any questions or queries, you can always ask on our [open-projects](https://discord.gg/NdYuU5SKxk) discord channel.
-=======
 - **DappHack** : Pushpendra, Shashank
 - **Cross-chain Bridge** : Samarendra, Aditya
 - **Undercollaterized lending and borrowing platform** : Aditya, Shashank
 - **HorseRiders** : Prabhat
 
-  If you have any questions or queries, you can always ask on our [discord](https://discord.gg/kkmMAUnf).
->>>>>>> 81d931e03643527e034f7bab70bac3d27bc240a1
+  If you have any questions or queries, you can always ask on our [open-projects](https://discord.gg/kkmMAUnf) discord channel.
