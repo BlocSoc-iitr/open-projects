@@ -6,7 +6,7 @@ Below are the contributing guidelines for the program
 
 ## Existing projects
 
-### DappHack
+### DappHack and Horse-Riders
 
 1. Fork the Project
 2. Create your Branch (`git checkout -b your_name/issue_name`)
@@ -16,8 +16,6 @@ Below are the contributing guidelines for the program
 
 ## Other projects
 
-1. Initialisation of a github repo at Blocsoc.
-2. Create your Branch (`git checkout -b your_name/issue_name`)
-3. Commit your Changes (`git commit -m 'issue solved'`)
-4. Push to the Branch (`git push origin your_name/issue_name`)
-5. Open a Pull Request and get it reviewed by mentors
+1. Create you own Repository by name: (`problem_statement_name/your_enrollment_no.`)
+2. Commit your Changes (`git commit -m 'code update info'`)
+3. Push to the repo (`git push`)
