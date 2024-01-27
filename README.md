@@ -100,6 +100,12 @@ Please find detailed instructions on how to contribute to existing projects and 
 - Proposal Submissions: A google form will be floated which will allow you to submit your proposals, you will need to submit a Google Docs link of your proposal with view access to everyone, along with the required info in the form.
 - Code Submissions: A google form will be floated which will allow you to submit your code.
 
+# Submission link:
+
+- Please use iitr email id for your submissions.
+- Submit your proposals in the google form attached below:
+  [Proposal submission](https://forms.gle/ZobywhKUQkgzqtrh6)
+
 ## A word on ChatGPT
 
 When writing your proposal **we encourage you to not use ChatGPT** or other AI tools. If you do so, we ask you to disclose the usage in your proposal. It doesn't automatically disqualify you, but we will take that usage into account when evaluating your application.
